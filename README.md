@@ -1,1 +1,0 @@
-# riyact-birthday-app
